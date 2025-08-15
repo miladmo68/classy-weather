@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+<h1 align="center">☁️ classy-weather</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="https://miladmo68.github.io/classy-weather/"><b>🔗 Live Demo</b></a> •
+  <a href="https://github.com/miladmo68/classy-weather"><b>📦 Repository</b></a>
+</p>
 
-## Available Scripts
+<p align="center">
+  A React app scaffolded with Create React App — serving as a clean starter template for building a stylish weather interface, ideal for integrating APIs, displaying forecasts, and enabling interactive UI enhancements.
+</p>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## ​ Screenshot
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p align="center">
+<img alt="classy-weather" 
+     src="https://github.com/user-attachments/assets/5109cc0d-d851-46db-99d1-fed975e99258" 
+     width="1920" height="1080" loading="lazy" />
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  </p>
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ​ Tech Stack
 
-### `npm run build`
+<p align="center">
+  <img src="https://img.shields.io/badge/Create%20React%20App-blue?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ​ Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| Feature                             | Description                                                                            |
+|-------------------------------------|----------------------------------------------------------------------------------------|
+| **CRA Boilerplate**                | Bootstrapped using Create React App — includes meaningful dev scripts                  |
+| **Weather Interface Ready**        | Ideal base for features like current weather, forecast cards, or location search       |
+| **Developer Tools Included**       | Comes with useful scripts like `npm start`, `npm test`, and `npm run build`            |
+| **Lightweight & Extendable**       | Clean project structure ready for enhancement with API calls, icons, themes, etc.      |
+| **Responsive Layout Support**      | Perfect foundation for building UI that adapts across mobile, tablet, and desktop views |
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align="center">
+  <b>👨‍💻 Author: Milad Mohammadi</b><br>
+  🌐 <a href="https://miladweb.com">Website</a> • 💼 <a href="https://linkedin.com/in/miladmo68">LinkedIn</a> • 🐙 <a href="https://github.com/miladmo68">GitHub</a>
+</p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## ​ Getting Started
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+# 1) Clone the repository
+git clone https://github.com/miladmo68/classy-weather.git
+cd classy-weather
 
-## Learn More
+# 2) Install dependencies
+npm install
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# 3) Run the development server
+npm start
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# 4) Build the app for production
+npm run build

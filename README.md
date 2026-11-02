@@ -1,69 +1,59 @@
-<h1 align="center">☁️ classy-weather</h1>
+<div align="center">
+
+# 🌤️ Classy Weather
+
+A weather app built with React class components that shows a 7-day forecast for any location, using the Open-Meteo API.
+
+<a href="https://miladmo68.github.io/classy-weather/"><img src="https://img.shields.io/badge/Live_Demo-Open_Site-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"></a>
+<a href="https://github.com/miladmo68/classy-weather"><img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source code"></a>
+<a href="https://miladweb.com"><img src="https://img.shields.io/badge/Portfolio-miladweb.com-1E3A8A?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
+
+**🔗 Live:** [miladmo68.github.io/classy-weather](https://miladmo68.github.io/classy-weather/)
+
+</div>
 
 <p align="center">
-  <a href="https://miladmo68.github.io/classy-weather/"><b>🔗 Live Demo</b></a> •
-  <a href="https://github.com/miladmo68/classy-weather"><b>📦 Repository</b></a>
+  <img src="./.github/preview.jpg" alt="Classy Weather screenshot" width="100%" />
 </p>
 
-<p align="center">
-  A React app scaffolded with Create React App — serving as a clean starter template for building a stylish weather interface, ideal for integrating APIs, displaying forecasts, and enabling interactive UI enhancements.
-</p>
+## ✨ Features
 
----
+- Search any city
+- 7-day forecast with weather icons
+- Built with class components and lifecycle methods
 
-## ​ Screenshot
+## 🛠️ Tech Stack
 
-<p align="center">
-<img alt="classy-weather" 
-     src="https://github.com/user-attachments/assets/5109cc0d-d851-46db-99d1-fed975e99258" 
-     width="1920" height="1080" loading="lazy" />
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Create React App](https://img.shields.io/badge/Create%20React%20App-09D3AC?style=for-the-badge&logo=createreactapp&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
-  </p>
+## 🚀 Getting Started
 
----
+**Prerequisites:** [Node.js](https://nodejs.org/) 18 or newer
 
-## ​ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Create%20React%20App-blue?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-## ​ Features
-
-| Feature                             | Description                                                                            |
-|-------------------------------------|----------------------------------------------------------------------------------------|
-| **CRA Boilerplate**                | Bootstrapped using Create React App — includes meaningful dev scripts                  |
-| **Weather Interface Ready**        | Ideal base for features like current weather, forecast cards, or location search       |
-| **Developer Tools Included**       | Comes with useful scripts like `npm start`, `npm test`, and `npm run build`            |
-| **Lightweight & Extendable**       | Clean project structure ready for enhancement with API calls, icons, themes, etc.      |
-| **Responsive Layout Support**      | Perfect foundation for building UI that adapts across mobile, tablet, and desktop views |
-
----
-
-<p align="center">
-  <b>👨‍💻 Author: Milad Mohammadi</b><br>
-  🌐 <a href="https://miladweb.com">Website</a> • 💼 <a href="https://linkedin.com/in/miladmo68">LinkedIn</a> • 🐙 <a href="https://github.com/miladmo68">GitHub</a>
-</p>
-
----
-
-## ​ Getting Started
+**Install and run**
 
 ```bash
-# 1) Clone the repository
 git clone https://github.com/miladmo68/classy-weather.git
 cd classy-weather
-
-# 2) Install dependencies
 npm install
-
-# 3) Run the development server
 npm start
+```
 
-# 4) Build the app for production
-npm run build
+## 📁 Project Structure
+
+```
+classy-weather/
+├── public/
+├── src/
+└── package.json
+```
+
+## 👤 Author
+
+**Milad Mohammadi** — Frontend-Focused Full-Stack Developer, Toronto 🇨🇦
+
+[![Website](https://img.shields.io/badge/Website-miladweb.com-FF6A00?style=flat-square&logo=googlechrome&logoColor=white)](https://miladweb.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-miladmo68-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miladmo68/)
+[![GitHub](https://img.shields.io/badge/GitHub-miladmo68-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/miladmo68)
+
+<p align="center"><sub>If you like this project, consider giving it a ⭐</sub></p>
